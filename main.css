@@ -1,0 +1,33 @@
+html{
+    background-color: beige;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: rgb(82, 123, 123);
+}
+a{
+    color: brown;
+}
+img{
+    width: 300px;
+}
+.pic1{
+    width: 150px;
+}
+.pic2{
+    width: 500px;
+}
+.moresize{
+    font-size: larger;
+    color: blueviolet;
+}
+ul{
+    list-style-type: square;
+}
+.pmore{
+    font-size: 2rem;
+    background-color: aqua;
+    color: darkblue;
+}
