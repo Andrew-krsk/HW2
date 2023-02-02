@@ -30,4 +30,15 @@ ul{
     font-size: 2rem;
     background-color: aqua;
     color: darkblue;
+    font-family: 'beer money';
+}
+
+@font-face {
+	font-family: 'beer money';
+	src: url('source/fonts/beer_money.eot'); /* IE 9 Compatibility Mode */
+	src: url('source/fonts/beer_money.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('source/fonts/beer_money.woff2') format('woff2'), /* Super Modern Browsers */
+		url('source/fonts/beer_money.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('source/fonts/beer_money.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('source/fonts/beer_money.svg#beer_money') format('svg'); /* Chrome < 4, Legacy iOS */
 }
